@@ -1,0 +1,12 @@
+Team: Balraj Virdee (me)
+
+I will be doing the project on my own.
+
+I have chosen do to either the reversi or connect 4 game. I am not sure yet as to which one I want to 
+implement, but currently I am leaning more towards connect 4.
+
+I will be creating the program in C++ as it is a very fast an efficient language compared to Python. This will
+help with the large amount of random playouts that will need to be done.
+
+I am not sure if I will be using any helper libraries for the implementation itself, but I will use libraries such as LibXL
+or XmlWriter to help with gathering necessary data and creating excel spreadsheets automatically.
